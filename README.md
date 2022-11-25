@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a UAE based Machine Learning Engineer and Physicist, creating awesome ML pipelines, maintaining data quality and building effective machine learning models on various projects. In my spare time I work on independent projects based on AI and Machine Learning. Let's get started by  scrolling  to learn more about me.
+
 <!--
 **adwiteeymauriya/adwiteeymauriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
