@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a UAE based Machine Learning Engineer and Physicist, creating awesome ML/data pipelines, maintaining data quality and building effective machine learning models on various projects. In my spare time I work on independent projects based on AI and Machine Learning. 
+I am a UAE based Data Engineer and Physicist, creating awesome ML/data pipelines, maintaining data quality and building effective machine learning models on various projects. In my spare time I work on independent projects based on AI and Machine Learning. 
 Feel free to reach to me on [Linkedin](https://www.linkedin.com/in/adwiteeymauriya/)
 
 <!--
