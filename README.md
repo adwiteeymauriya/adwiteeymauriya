@@ -18,8 +18,8 @@ I'm a researcher-engineer with a sharp focus on **LLMs**, **multi-modal AI syste
 
 `Python` · `TypeScript` · `Go` · `Rust` · `PyTorch` · `Transformers` · `HuggingFace`  
 `TGI` · `vLLM` · `FastAPI` · `SvelteKit` · `Next.js` · `Ray` · `Prefect` · `BentoML`  
-`S3` · `Trino` · `Iceberg` · `delta-rs` · `Polars` · `Docker` · `NATS` · `Temporal`
-`AWS` · `GCP` · `Azure` · `Postgres` · `Redis` · `Weaviate` · `Qdrant` . `Langchain`
+`S3` · `Trino` · `Iceberg` · `delta-rs` · `Polars` · `Docker` · `NATS` · `Temporal`  
+`AWS` · `GCP` · `Azure` · `Postgres` · `Redis` · `Weaviate` · `Qdrant` . `Langchain`  
 `LlamaIndex` · `LangGraph` . `Langfuse` . `LLM` · `RAG`  · `OpenAPI` · `REST` · `WebSockets` 
 
 
