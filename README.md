@@ -10,7 +10,7 @@ I'm a researcher-engineer with a sharp focus on **LLMs**, **multi-modal AI syste
 - ⚙️ **LLM Ops**: End-to-end training pipelines with `QLoRA`, `MLflow`, `Prefect`, `Ray`, `WandB`, and vector DBs like `Weaviate` and `Qdrant`  
 - 🧱 **RAG + Knowledge Graphs**: Embedding-backed retrieval with `FAISS`, hybrid scoring, and graph-based reasoning (Neo4j + TransE)  
 - 🧑‍⚕️ **Domain AI**: Building LLM agents & workflows for auditors, doctors, and strategists using structured + unstructured data  
-- 🌐 **Infra + Control Planes**: Multi-tenant orchestration using Docker, NATS JetStream, S3, Temporal, PocketBase, and Centrifugo  
+- 🌐 **Infra + Control Planes**: Multi-tenant orchestration using Docker, NATS JetStream, S3, Temporal, Rancher and Centrifugo  
 
 ---
 
